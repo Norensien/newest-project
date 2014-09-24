@@ -1,6 +1,9 @@
-body
+body 
 {
-background-color:#42A3A3;
-font-family: helvetica;
-color: white;
+
+background-image:url(stardust.png);
+background-color:blue;
+
+font-family:helvetica;
+color:white;
 }
